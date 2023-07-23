@@ -1,4 +1,4 @@
-# Incorporated the csv module
+# Dependencies
 import csv
 import os
 
